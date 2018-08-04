@@ -52,7 +52,7 @@
 <script>
     import NavHeader from '@/components/NavHeader.vue'
     import NavFooter from '@/components/NavFooter.vue'
-    import './../assets/css/OrderSuccess.css'
+    import './../assets/css/orderSuccess.css'
     import axios from 'axios'
     export default {
       data(){

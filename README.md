@@ -4,5 +4,5 @@
 前台使用vue-cli构建了请求服务器，使用了Vue框架，还使用了vue-router、axios、Vuex等中间件
 后台使用了node.js,express框架构建了后台服务器，数据库使用了mysql
 该项目上线部署到了阿里云ECS服务器上，使用了FileZilla和PuTTY工具对服务器操作
-项目展示地址：http://hotemotion.fun:3389/index.html#/
+项目展示地址：http://39.105.46.0:3000/index.html#/
 (建议在PC端查看，登录用户名：sunyu 密码：123456)
